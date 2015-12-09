@@ -3443,7 +3443,7 @@
 <template>Readily undergoing change or breakdown.</template>
 </category>
 <category><pattern>WNDEF TAPROOT</pattern>
-<template>Something that provides an important central source for growth or development; Main root of a plant growing straight downward from the stem.</template>
+<template>Something that provides an important central source for growth or development; org.alicebot.ab.ProgramAB root of a plant growing straight downward from the stem.</template>
 </category>
 <category><pattern>WNDEF POND</pattern>
 <template>A small lake.</template>

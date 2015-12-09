@@ -3032,7 +3032,7 @@
 <template>Modified to give superior performance.</template>
 </category>
 <category><pattern>WNDEF WATER MAIN</pattern>
-<template>Main (a pipe or conduit) for conveying water.</template>
+<template>org.alicebot.ab.ProgramAB (a pipe or conduit) for conveying water.</template>
 </category>
 <category><pattern>WNDEF MIRRORLIKE</pattern>
 <template>Capable of reflecting light like a mirror.</template>

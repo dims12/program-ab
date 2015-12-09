@@ -8207,7 +8207,7 @@
 <template>Of or relating to or practicing dermatology.</template>
 </category>
 <category><pattern>WNDEF BRUNT</pattern>
-<template>Main force of a blow etc.</template>
+<template>org.alicebot.ab.ProgramAB force of a blow etc.</template>
 </category>
 <category><pattern>WNDEF BACHELOR OF MEDICINE</pattern>
 <template>A bachelor's degree in medicine.</template>
